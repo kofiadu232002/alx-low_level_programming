@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main - prints a string
+ * main - should write the command
  * Return : 0
  */
 int main(void)
