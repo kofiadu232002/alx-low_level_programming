@@ -16,7 +16,8 @@ _putchar(' ');
 if (product < 10)
 {
 _putchar(' ');
-} else
+}
+else
 {
 _putchar(product / 10 + '0');
 }
